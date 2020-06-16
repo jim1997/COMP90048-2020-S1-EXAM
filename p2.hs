@@ -1,0 +1,1 @@
+map (filter (\i-> not (elem i ['a', 'e', 'i', 'o', 'u','A', 'E', 'I', 'O', 'U']))) x

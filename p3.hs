@@ -1,0 +1,1 @@
+length (takeWhile (>(minimum x)) x)
